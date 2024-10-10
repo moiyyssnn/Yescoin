@@ -15,7 +15,7 @@ import time
 from colorama import Fore, Style, init
 import json
 
-d = "YOUSEF"
+d = "MOHSIN"
 
 JOONYS = render(f'{d}', colors=['red', 'yellow'], align='center')
 print(JOONYS)
@@ -62,21 +62,21 @@ os.system('clear')
 
 init(autoreset=True)
 
-f = "YOUSEF"
+f = "MOHSIN"
 JOONY = render(f'{f}', colors=['green', 'white'], align='center')
 print(JOONY)
 def print_welcome_message():
     print(JOONY)
     print(Fore.GREEN + Style.BRIGHT + "YesCoin - BOT ✔ ")
-    print(Fore.GREEN + Style.BRIGHT + "Developer : @YOUSSEFSOBHY13 ✓")
-    print(Fore.YELLOW + Style.BRIGHT + "Free Konsultasi Join Telegram Channel: https://t.me/kingelnet ✓")
+    print(Fore.GREEN + Style.BRIGHT + "Developer : @moiyyssnn ✓")
+    print(Fore.YELLOW + Style.BRIGHT + "Free Konsultasi Join Telegram Channel: xoxo ✓")
     print("""
    \033[1;39m
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗ 
                       
 \33[0;42m Developer : @moiyyssnn  ✔ \033[0;92m
 
-\33[0;41mDeveloper Channel : https://t.me/kingelnet ✔ \033[0;92m
+\33[0;41mDeveloper Channel : xoxo ✔ \033[0;92m
 
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 
